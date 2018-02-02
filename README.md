@@ -26,7 +26,7 @@ Default dataSet is provided as .json file. If you want to proccess custom dateSe
 
 
 ## Building, Deploying and Running
-In order to build, deploy and run this app you will need **Maven** and **Docker**
+In order to build, deploy and run this app you will need **Maven** and **Docker**.  
 Needed steps to build the image:
 ```sh
 $ mvn clean package
