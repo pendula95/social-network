@@ -33,7 +33,7 @@ $ mvn clean package
 $ mvn docker:build
 ```
 If you don't have maven or just want to use an already created image you can download it on this [link](https://we.tl/zg3CmGRa2H)  
-In order to run it you use this command:
+In order to add it to your docker use this command:
 ```sh
 $ docker load -i <path to image tar file>
 ```
