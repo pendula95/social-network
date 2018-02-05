@@ -37,7 +37,7 @@ In order to add it to your docker use this command:
 ```sh
 $ docker load -i <path to image tar file>
 ```
-To run this service please you use:
+To run this service please use:
 ```sh
 $ docker run -p 8080:8080 -i -t lbulic/social-network
 ```
