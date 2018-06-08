@@ -18,7 +18,6 @@ import java.util.stream.Collectors;
 
 public class MainVerticle extends AbstractVerticle {
 
-
     private Graph graph;
 
     @Override
